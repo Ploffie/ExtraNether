@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " JS",
+    "J S",
+    " JS"
+  ],
+  "key": {
+    "J": {
+      "item": "extranether:jade"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "extranether:jade_bow",
+    "data": 0
+  }
+}

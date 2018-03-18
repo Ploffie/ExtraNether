@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "extranether:smolderite"
+    }
+  },
+  "result": {
+    "item": "extranether:smolderite_smooth",
+    "data": 0
+  }
+}

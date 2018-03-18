@@ -1,0 +1,15 @@
+[
+{
+  "modid": "extranether",
+  "name": "Extra Nether",
+  "description": "Add loads of new things to the nether! It's great!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Erik","Joe"],
+  "credits": "Joe for the idea, concept and resources, Erik for the code.",
+  "logoFile": "",
+  "dependencies": []
+}
+]

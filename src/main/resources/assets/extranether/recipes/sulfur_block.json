@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "extranether:sulfur"
+    }
+  },
+  "result": {
+    "item": "extranether:sulfur_block",
+    "data": 0
+  }
+}

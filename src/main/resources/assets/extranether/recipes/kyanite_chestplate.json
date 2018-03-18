@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "K K",
+    "KKK",
+    "KKK"
+  ],
+  "key": {
+    "K": {
+      "item": "extranether:kyanite"
+    }
+  },
+  "result": {
+    "item": "extranether:kyanite_chestplate",
+    "data": 0
+  }
+}

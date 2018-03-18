@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "KK",
+    "KK"
+  ],
+  "key": {
+    "K": {
+      "item": "extranether:kyanite_chunk"
+    }
+  },
+  "result": {
+    "item": "extranether:kyanite",
+    "data": 0
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "K K",
+    "K K"
+  ],
+  "key": {
+    "K": {
+      "item": "extranether:kyanite"
+    }
+  },
+  "result": {
+    "item": "extranether:kyanite_boots",
+    "data": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "extranether:smoldering_rock"
+    }
+  },
+  "result": {
+    "item": "extranether:smolderite",
+    "data": 0
+  }
+}

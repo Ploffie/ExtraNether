@@ -1,0 +1,35 @@
+New Structures:
+•    Underlava Temple – Temple made from Smolderite (three variants: normal, bricks, smooth) and smoldering lamps. Similar to the ocean monument. New mob “Molten” and a boss variant (one per temple). Each temple has one Block of Jade.
+New Mobs:
+•    “Molten” – Uncertain on appearance, but drops a “Molten Eye” every so often. Drops smoldering rocks every time, shards rarely.
+New Blocks:
+x    Sulfur Ore – Sulfur is found amongst soul sand, yellow in appearance. Each ore drops between 3-4 sulfur dust, which increases with fortune.
+x    Sulfur Block – Made using 9 Sulfur. No practical use.
+x    Kyanite Ore – Found below “ocean level” of lava. Each ore drops one Kyanite Chunk, and with fortune 3 it is possible to get 4 from one ore.
+x    Kyanite Block – Made from 9 Kyanite. Cannot be set alight (fire-proof).
+•    Smolderite – Dark red/orange block, very rough like cobblestone. Can be made from Soldering rocks, similar crafting recipes with prismarine, as with the variants. Smooth crafted with two smolderite.
+•    Smoldering Lamp – A light source, very orange. Can be made using 4 smoldering shards and a smoldering rock. DEV COMMENT: Light value should be 1
+•    Tough Sponge – A new type of sponge that can soak up lava. Has wet variant (soaked up). Made by surrounding a sponge with 4 sulfur and 4 sulfur dust.
+•    Block of Jade – Found in the Underlava Temple. One per temple, and drops one Jadeite. Can only be picked up using silk touch.
+New Items:
+•    Sulfur Dust – Similar to redstone dust but yellow. When smelted it produces Sulfur. Can be used to craft tough sponges, and can be used as a gunpowder substitute in brewing.
+•    Sulfur – Used to create tough sponges. Could possibly have more uses? DEV COMMENT: Can be used as fuel, burn time 1.5x coal (12 items)
+•    Kyanite Chunk – A rough looking piece of bright blue gem. 9 chunks create one Kyanite.
+•    Kyanite – Heat resistant gem. Very bright blue, looks quartz-ish. Only practical use is Kyanite armour, which is very heat resistant (gives fire resistance 4 when fully armoured up).
+•    Kyanite Amour – crafted in the same way as normal armour, but with kyanite. Heat resistant, gives fire resistance 4 when fully equipped. Durability is between iron and diamond, but protection is the same as diamond.
+•    Smoldering rock – used to craft smolderite
+•    Smoldering shard – used to craft smoldering lamps
+•    Molten Eye – drops from the Molten mob. Has uses in brewing.
+•    Jadeite – drops from the block of jade in the temple. 4 of these creates one Jade. Only way to obtain Jade.
+•    Jade – the toughest material in the game. Can only be used to create a sword and bow currently.
+•    Jade Sword – 10 attack damage, with almost triple the durability of diamond, as Jade is one of the toughest gems. (Jadeite Jade is the tougher than diamond, but would be too complicated)
+•    Jade Bow – Shoots 3 arrows at once, and has almost triple the durability of a normal bow.
+New Potions:
+•    Lava Bottle – Similar to water bottle. When drunk will set the player on fire.
+•    Splash Lava Bottle – When thrown will set fire to things within a 3 block radius.
+•    Potion of Resistance – Made using Jadeite. Gives resistance for 5 minutes naturally, but can be extended to give resistance for 10 minutes. Can also be amplified using glowstone.
+•    Potion of Lava Vision – Made using a Molten Eye. Gives the effects of night vision underwater to the vision of under lava, allowing ease of sight.
+
+DEV COMMENT:
+• NOT DONE
+x DONE

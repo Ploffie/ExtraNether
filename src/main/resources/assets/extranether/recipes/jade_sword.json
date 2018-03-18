@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " J ",
+    " J ",
+    " S "
+  ],
+  "key": {
+    "J": {
+      "item": "extranether:jade"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "extranether:jade_sword",
+    "data": 0
+  }
+}
